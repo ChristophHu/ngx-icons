@@ -1,0 +1,34 @@
+{
+  "name": "@christophhu/ngx-icons",
+  "version": "19.1.0",
+  "description": "Library for Angular to use SVG icons in your application.",
+  "license": "MIT",
+  "author": {
+    "name": "Christoph Huschenhoefer",
+    "email": "christoph@nx.codes"
+  },
+  "keywords": [
+    "angular",
+    "icons",
+    "svg"
+  ],
+  "sideEffects": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christophhu/ngx-icons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/christophhu/ngx-icons/issues"
+  },
+  "homepage": "https://github.com/christophhu/ngx-icons#readme",
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "peerDependencies": {
+    "@angular/common": "^19.1.0",
+    "@angular/core": "^19.1.0"
+  }
+}
