@@ -1,13 +1,13 @@
 import { JsonPipe, NgFor, NgIf } from '@angular/common';
 import { Component } from '@angular/core';
-import { icons, NgxIconsComponent } from '../../../ngx-icons/src/public-api';
+import { icons, IconsComponent } from '../../../ngx-icons/src/public-api';
 
 @Component({
   selector: 'app-root',
   imports: [
     NgIf,
     NgFor,
-    NgxIconsComponent,
+    IconsComponent,
     // JsonPipe
   ],
   templateUrl: './app.component.html',
