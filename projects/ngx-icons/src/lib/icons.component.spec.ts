@@ -1,18 +1,18 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { NgxIconsComponent } from './ngx-icons.component';
+import { IconsComponent } from './icons.component';
 
-describe('NgxIconsComponent', () => {
-  let component: NgxIconsComponent;
-  let fixture: ComponentFixture<NgxIconsComponent>;
+describe('IconsComponent', () => {
+  let component: IconsComponent;
+  let fixture: ComponentFixture<IconsComponent>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      imports: [NgxIconsComponent]
+      imports: [IconsComponent]
     })
     .compileComponents();
     
-    fixture = TestBed.createComponent(NgxIconsComponent);
+    fixture = TestBed.createComponent(IconsComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

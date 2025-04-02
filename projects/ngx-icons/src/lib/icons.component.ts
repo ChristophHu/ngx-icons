@@ -8,10 +8,10 @@ import { icons } from './icons';
   imports: [
     CommonModule
   ],
-  templateUrl: './ngx-icons.component.html',
-  styleUrls: ['./ngx-icons.component.sass']
+  templateUrl: './icons.component.html',
+  styleUrls: ['./icons.component.sass']
 })
-export class NgxIconsComponent {
+export class IconsComponent {
   @Input() set name(iconName: string) {
     this.renderer.setProperty(this.element.nativeElement,'innerHTML', icons[iconName] || null)
   }
