@@ -10,10 +10,10 @@ This repository is a demo application built with Angular 19, showcasing the usag
 
 ## Frameworks and Languages
 <p align="left">
-  <img alt="Static Badge" src="https://img.shields.io/badge/19.0.0-000000?style=for-the-badge&logo=angular&logoColor=white&label=Angular&labelColor=000000"><br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/20.3.3-000000?style=for-the-badge&logo=angular&logoColor=white&label=Angular&labelColor=000000"><br>
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-000000.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26&color=000000"><br>
   <img alt="Static Badge" src="https://img.shields.io/badge/SASS-000000.svg?style=for-the-badge&logo=sass&logoColor=white&labelColor=CC6699&color=000000"><br>
-  <img alt="Static Badge" src="https://img.shields.io/badge/5.6.2-000000?style=for-the-badge&logo=typescript&logoColor=white&label=Typescript&labelColor=007ACC&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/5.9.3-000000?style=for-the-badge&logo=typescript&logoColor=white&label=Typescript&labelColor=007ACC&color=000000">
 </p>
 
 ## Installation
@@ -54,7 +54,7 @@ ng serve
 This project is licensed under the MIT License.
 
 The MIT License (MIT)
-Copyright © 2024 <copyright holders>
+Copyright © 2025 <copyright holders>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
