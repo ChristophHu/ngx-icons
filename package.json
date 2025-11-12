@@ -1,6 +1,6 @@
 {
-  "name": "ngx-icons",
-  "version": "20.3.1",
+  "name": "@christophhu/ngx-icons",
+  "version": "20.3.2",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
