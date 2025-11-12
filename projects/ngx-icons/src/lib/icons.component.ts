@@ -1,9 +1,9 @@
-import { CommonModule } from '@angular/common';
-import { Component, ElementRef, Input, Renderer2 } from '@angular/core';
-import { icons } from './icons';
+import { CommonModule } from '@angular/common'
+import { Component, ElementRef, Input, Renderer2 } from '@angular/core'
+import { icons } from './icons'
 
 @Component({
-  selector: 'icons',
+  selector: 'ngx-icons',
   standalone: true,
   imports: [
     CommonModule
