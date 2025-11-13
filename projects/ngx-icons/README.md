@@ -12,7 +12,6 @@ This repository is a demo application built with Angular 19, showcasing the usag
 <p align="left">
   <img alt="Static Badge" src="https://img.shields.io/badge/20.3.2-000000?style=for-the-badge&logo=angular&logoColor=white&label=Angular&labelColor=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-000000.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26&color=000000">
-  <img alt="Static Badge" src="https://img.shields.io/badge/SASS-000000.svg?style=for-the-badge&logo=sass&logoColor=white&labelColor=CC6699&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/5.9.3-000000?style=for-the-badge&logo=typescript&logoColor=white&label=Typescript&labelColor=007ACC&color=000000">
 </p>
 
