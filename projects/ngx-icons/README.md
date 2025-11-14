@@ -26,11 +26,11 @@ npm install
 Import the IconsModule in the app.module.ts.
 
 ```typescript
-import { IconsComponent } from '@christophhu/ngx-icons';
+import { NgxIconsComponent } from '@christophhu/ngx-icons';
 
 @NgModule({
     imports: [
-        IconsComponent,
+        NgxIconsComponent,
         ...
     ]
 ...
@@ -40,7 +40,7 @@ The icons-Tag has a property name.
 
 ```html
 <div class="w-12 h-12 mb-5 border border-gray-800 rounded">
-  <icons class="stroke-1 stroke-current" name="2fa"></icons>
+  <ngx-icons class="stroke-1 stroke-current" name="2fa"></ngx-icons>
 </div>
 ```
 

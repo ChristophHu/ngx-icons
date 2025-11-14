@@ -1,6 +1,6 @@
 import { CommonModule } from '@angular/common'
 import { Component, ElementRef, Input, Renderer2 } from '@angular/core'
-import { icons } from './icons'
+import { icons } from './ngx-icons'
 
 @Component({
   selector: 'ngx-icons',
@@ -8,10 +8,10 @@ import { icons } from './icons'
   imports: [
     CommonModule
   ],
-  templateUrl: './icons.component.html',
-  styleUrls: ['./icons.component.sass']
+  templateUrl: './ngx-icons.component.html',
+  styleUrls: ['./ngx-icons.component.sass']
 })
-export class IconsComponent {
+export class NgxIconsComponent {
   @Input() set name(iconName: string) {
     this.renderer.setProperty(this.element.nativeElement,'innerHTML', icons[iconName] || null)
   }
